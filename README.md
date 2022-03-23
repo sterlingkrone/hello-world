@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sterlingkrone a jack of all trades kind of person.
+- 👋 Hi, I’m **@sterlingkrone** a jack of all trades kind of person.
 - 👀 I am an RF design engineer—gamer, fitness nut, programmer, tech lover, entrepreneur, & artist.
 - 🌱 I’m currently learning C, C++, and Python
 - 💞️ I’m looking to collaborate on IoT projects.
